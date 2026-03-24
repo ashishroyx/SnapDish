@@ -7,7 +7,7 @@
 ##  Project Links
 
 * **Live Website:** [View SnapDish Live](https://snap-dish.vercel.app/)
-* **Video Preview:** [Watch Project Demo](https://your-video-link.com)
+* **Video Preview:** [Watch Project Demo](https://drive.google.com/file/d/1VEPK9VuezhUBdL3cq7bYk6nbsGKaPDvy/view?usp=drive_link)
 
 ---
 
